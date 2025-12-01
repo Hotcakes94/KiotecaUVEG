@@ -1,0 +1,22 @@
+{
+  "short_name": "Kioteca",
+  "name": "Kioteca UVEG Estudiantes",
+  "description": "Red social académica y grupos de estudio UVEG",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7e22ce",
+  "background_color": "#f3f4f6",
+  "orientation": "portrait"
+}
